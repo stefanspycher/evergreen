@@ -15,6 +15,7 @@ Reading produces information. Learning produces retained, retrievable, applicabl
 ## The Learning Process
 
 Learning is a three-step process:
+
 1. **Acquisition**: encountering new information and linking it to existing knowledge
 2. **Retention**: storing it in a form that persists
 3. **Retrieval**: accessing it when needed
@@ -30,6 +31,7 @@ Most reading fails at step 2. Passive reading does not automatically produce ret
 The more details you add and the stronger the connections you build to existing knowledge, the more retrieval cues you create. More cues mean easier access later.
 
 After completing a significant reading, answer these from memory:
+
 - How would you summarize this in three sentences?
 - What was surprising or unexpected? What changed your understanding?
 - How does this relate to what you already know? Does it confirm or contradict it?
@@ -41,6 +43,7 @@ You do not need to answer all of them. Keep the prompts that produce the most co
 ## The Feynman Method
 
 Teaching is the most effective way to embed information. The technique:
+
 1. Study the concept
 2. Explain it as if to someone with no background
 3. Identify where your explanation breaks down or becomes vague: those are the actual gaps
@@ -51,21 +54,24 @@ The gaps you discover when trying to explain are more valuable than the content 
 
 ## Wozniak's Rules for Formulating Knowledge
 
-Piotr Wozniak's principles for structuring information for long-term retention:
+[Piotr Wozniak's principles](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge) for structuring information for long-term retention:
 
 **Before encoding:**
+
 1. Do not learn if you do not understand. Memorizing without comprehension is fragile.
 2. Learn before you memorize. Build the whole picture before breaking it into parts.
 3. Build upon the basics. Well-remembered fundamentals make everything else easier to retain.
 4. Stick to the minimum information principle. The simpler the item, the more reliably it is retained.
 
 **During formulation:**
+
 5. Optimize wording. Reduce complex ideas to compact, precise statements; clarity aids retention.
 6. Personalize and provide examples. Personal connections are the strongest memory anchors.
 7. Refer to other memories. Connecting new knowledge to existing knowledge creates a more resilient structure.
 8. Redundancy does not contradict the minimum information principle. Viewing the same fact from different angles reinforces without bloating.
 
 **For knowledge management:**
+
 9. Provide sources. This enables updating and reliability assessment over time.
 10. Prioritize. Effective learning requires decisions about what matters enough to retain deeply.
 
